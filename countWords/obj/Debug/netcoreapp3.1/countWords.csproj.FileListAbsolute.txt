@@ -1,0 +1,14 @@
+D:\cSharp\countWords\bin\Debug\netcoreapp3.1\countWords.exe
+D:\cSharp\countWords\bin\Debug\netcoreapp3.1\countWords.deps.json
+D:\cSharp\countWords\bin\Debug\netcoreapp3.1\countWords.runtimeconfig.json
+D:\cSharp\countWords\bin\Debug\netcoreapp3.1\countWords.runtimeconfig.dev.json
+D:\cSharp\countWords\bin\Debug\netcoreapp3.1\countWords.dll
+D:\cSharp\countWords\bin\Debug\netcoreapp3.1\countWords.pdb
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.csproj.AssemblyReference.cache
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.GeneratedMSBuildEditorConfig.editorconfig
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.AssemblyInfoInputs.cache
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.AssemblyInfo.cs
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.csproj.CoreCompileInputs.cache
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.dll
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.pdb
+D:\cSharp\countWords\obj\Debug\netcoreapp3.1\countWords.genruntimeconfig.cache
